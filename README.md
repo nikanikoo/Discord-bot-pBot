@@ -21,5 +21,5 @@ npm run bot
 ```env
 NAME=Mr. Nikori // Bot Name
 TOKEN=your_token // Discord Token
-LANG=ru \\ language (ru, en)
+LANG=ru // language (ru, en)
 ```
