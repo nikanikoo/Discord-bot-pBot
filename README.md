@@ -8,7 +8,7 @@ The basis is taken from here - https://github.com/lailune/node-pBot
 
 **For fun only!**
 
-## Installing
+## 🖥 Installing
 
 ```sh
 git clone https://github.com/nik0ri/Discord-bot-pBot.git
@@ -17,7 +17,7 @@ npm i
 npm run bot
 ```
 
-## Configuration (.env)
+## ⚙ Configuration (.env)
 ```env
 NAME=Mr. Nikori // Bot Name
 TOKEN=your_token // Discord Token
