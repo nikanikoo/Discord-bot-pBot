@@ -20,7 +20,7 @@
     "chownr": "^1.1.4",
     "combined-stream": "^1.0.8",
     "concat-map": "^0.0.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.7",
     "delayed-stream": "^1.0.0",
     "devtools-protocol": "^0.0.818844",
     "discord-api-types": "^0.33.5",
